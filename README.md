@@ -1,8 +1,4 @@
-<h1 align="center">Sahand Soleimani</h1><br>
-
-<p align="center">
-  Saving Urmia Lake
-</p>
+<h1 align="center" class="color: #000000;">Sahand Soleimani</h1><br>
 
 <p align="center">
   <a href="https://www.sahandsleimani.ir/">Website</a>
