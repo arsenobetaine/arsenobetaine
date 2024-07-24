@@ -3,5 +3,5 @@
 <p align="center">
   <a href="https://www.sahandsoleimani.ir/">Website</a>
   ·
-  <a target="_blank" href="https://x.com/sahandsoleiman1">X</a>
+  <a href="https://x.com/sahandsoleiman1" target="_blank">X</a>
 </p>
