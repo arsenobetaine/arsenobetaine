@@ -1,4 +1,4 @@
-<h1 align="center">Sahand Soleimani</h1><br>
+<h1 align="center">Sahand Soleimani</h1>
 
 <p align="center">
   <a href="https://www.sahandsoleimani.ir/">Website</a>
