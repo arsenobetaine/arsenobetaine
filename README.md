@@ -47,18 +47,3 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 <!-- blog ends -->
 More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
-
-<h3 align="center">TIL</h3>
-<!-- tils starts -->
-[Trying out free-threaded Python on macOS](https://til.simonwillison.net/python/trying-free-threaded-python) - 2024-07-13
-
-[Accessing 1Password items from the terminal](https://til.simonwillison.net/macos/1password-terminal) - 2024-07-10
-
-[Mocking Stripe signature checks in a pytest fixture](https://til.simonwillison.net/pytest/pytest-stripe-signature) - 2024-07-02
-
-[Running Prettier against Django or Jinja templates](https://til.simonwillison.net/npm/prettier-django) - 2024-06-20
-
-[Upgrade Postgres.app on macOS](https://til.simonwillison.net/postgresql/upgrade-postgres-app) - 2024-06-16
-
-[Cloudflare redirect rules with dynamic expressions](https://til.simonwillison.net/cloudflare/redirect-rules) - 2024-05-29
-<!-- tils ends -->
