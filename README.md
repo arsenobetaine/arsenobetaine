@@ -1,4 +1,4 @@
-<p align="center">Sahand Soleimani</p>
+<h1 align="center">Sahand Soleimani</h1>
 
 <hr>
 
