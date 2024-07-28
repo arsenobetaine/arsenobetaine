@@ -1,4 +1,6 @@
 footer {
+  text-align: center;
+  justify-content: center;
   background-color: var(--white);
   width: 100%;
   border-top: 1px solid var(--border-color);
@@ -9,10 +11,7 @@ footer > .inner {
   margin: auto;
   padding: 32px 16px;
 }
-footer .links {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-}
+
 @media (max-width: 600px) {
   footer .links {
     grid-template-columns: 1fr 1fr;
